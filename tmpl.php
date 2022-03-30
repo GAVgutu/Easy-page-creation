@@ -27,7 +27,7 @@ function head($title,$viewport,$keywords,$description,$css,$ico){
     }
     //网站logo开关
     if($ico!=false){
-        $ico = "\n    <link rel=\"shortcut icon\" href=\"favicon.ico\" type=\"image/x-icon\" />";
+        $ico = "\n    <link rel=\"shortcut icon\" href=\"$ico\" type=\"image/x-icon\" />";
     }
     echo "<!DOCTYPE html>
 <html lang=\"zh\">
