@@ -1,0 +1,11 @@
+<div class="box">
+    <div class="head">
+        <h1>我是古图 - GAVgutu</h1>
+    </div>
+    <div class="main">
+        <p>这是一个程序演示项目 - This is a program demo project</p>
+    </div>
+    <div class="tail">
+        <p>@2022 GAVgutu</p>
+    </div>
+</div>
