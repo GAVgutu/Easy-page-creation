@@ -24,8 +24,7 @@ html,body{
 
 }
 .main p{
-    line-height: 500px;
-    text-align: center;
+    margin:5px;
 }
 .tail{
     width:100%;
